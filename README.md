@@ -48,7 +48,7 @@
 </p>
 
 <p align="right">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&locale=en" alt="Awanish-26" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&locale=en&theme=transparent" alt="Awanish-26" />
 </p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awanish-26&" alt="Awanish-26" /></p>
