@@ -44,14 +44,14 @@
 
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=compact&theme=neon" alt="Awanish-26" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=compact&theme=neon&bg_color=00000000" alt="Awanish-26" />
 </p>
 
 <p align="right">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&hide=stars,issues&locale=en&theme=neon" alt="Awanish-26" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&hide=stars,issues&locale=en&theme=neon&bg_color=00000000" alt="Awanish-26" />
 </p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awanish-26&theme=neon" alt="Awanish-26" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awanish-26&theme=neon&bg_color=00000000" alt="Awanish-26" /></p>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
 <p align="center" dir="auto"><br><br>
