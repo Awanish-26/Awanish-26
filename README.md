@@ -44,7 +44,7 @@
 
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=donut&theme=neon&bg_color=00000000" alt="Awanish-26" height="90"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=donut&theme=neon&bg_color=00000000" alt="Awanish-26" height="100"/>
 </p>
 
 <p align="right">&nbsp;
