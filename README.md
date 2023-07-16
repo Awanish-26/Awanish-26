@@ -20,11 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.github.com/AVIKBHANJA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" /></a>
-<a href="https://twitter.com/avik_bhanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avik_bhanja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avik-bhanja-0b7606251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik-bhanja-0b7606251" height="30" width="40" /></a>
-<a href="https://www.facebook.com/avi.bhanja.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avik bhanja" height="30" width="40" /></a>
-<a href="https://instagram.com/avik_b_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avik_b_001" height="30" width="40" /></a>
+<a href="https://www.github.com/Awanish-26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" /></a>
+<a href="https://www.linkedin.com/in/awanish-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik-bhanja-0b7606251" height="30" width="40" /></a>
+<a href="https://instagram.com/bablu_06_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bablu_06_y" height="30" width="40" /></a>
 </p>
 
 
