@@ -44,11 +44,11 @@
 
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=compact&theme=neon&bg_color=00000000" alt="Awanish-26" height="160" width="450"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=compact&theme=neon&bg_color=00000000" alt="Awanish-26" height="160" width="420"/>
 </p>
 
 <p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&locale=en&theme=neon&bg_color=00000000" alt="Awanish-26" height="160" width="450"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&locale=en&theme=neon&bg_color=00000000" alt="Awanish-26" height="160" width="420"/>
 </p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awanish-26&theme=neon&bg_color=00000000" alt="Awanish-26" /></p>
