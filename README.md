@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Awanish</h1>
+<h1 align="center" style='color: purple;'>Hi there 👋 I'm Awanish</h1>
 <div id="header" align="center">
   <img src="./resourses/Untitled.png" width="200"/>
 </div>
