@@ -14,13 +14,6 @@
 
 
 
-
-<p align="center"> Visitor count</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Awanish-26}/count.svg" alt="Awanish-26 :: Visitor's Count" />
-</p>
-
-
 <a href="https://github.com/Awanish-26" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/Awanish-26?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a><a href="https://twitter.com/avik_bhanja" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/avik_bhanja?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"/></a>
