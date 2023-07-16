@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on Tailwind Sweet shop project
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web dev projects
-- 💬 Ask me about ...
 - 📫 How to reach me: **https://www.linkedin.com/in/awanish-yadav/**
 - 😄 Pronouns: Bablu
 
