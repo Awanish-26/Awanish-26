@@ -15,8 +15,8 @@
 
 
 <a href="https://github.com/Awanish-26" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Awanish-26?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a><a href="https://twitter.com/avik_bhanja" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/avik_bhanja?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"/></a>
+  <img src="https://img.shields.io/github/followers/Awanish-26?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a><a href="https://twitter.com/avik_bhanja" target="_blank" rel="noreferrer">
+</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
