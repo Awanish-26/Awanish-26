@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web dev projects
 - 📫 How to reach me: **https://www.linkedin.com/in/awanish-yadav/**
-- 😄 Pronouns: Bablu
+- 😄 Pronouns: He/Him
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
