@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.github.com/Awanish-26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="30" width="40" /></a>
+<a href="https://www.github.com/Awanish-26" target="blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/awanish-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik-bhanja-0b7606251" height="30" width="40" /></a>
 <a href="https://instagram.com/bablu_06_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bablu_06_y" height="30" width="40" /></a>
 </p>
