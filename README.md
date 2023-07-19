@@ -5,6 +5,7 @@
 </div>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 <br><br>
+
 - 👨‍🎓 I'm 18 year boy persuing btech at University of Lucknow                  
 - 🔭 I’m currently working on Tailwind Sweet shop project
 - 🌱 I’m currently learning React
