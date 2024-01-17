@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&locale=en&theme=neon&bg_color=00000000" alt="Awanish-26" height="180" width="420"/>
 </p>
 
-<p align="center" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Awanish-26&theme=merko&mode=weekly&card_width=500" alt="GitHub Streak" /></a></p>
+<p align="center" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Awanish-26&theme=ocean-dark&mode=weekly&card_width=500" alt="GitHub Streak" width="50%"/></a></p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
