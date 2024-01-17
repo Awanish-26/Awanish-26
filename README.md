@@ -58,5 +58,5 @@
     <i>Thanks for visiting my profile.</i> 
   </samp>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Have%20a%20Nice%20Day&section=footer&animation=twinkling&fontAlignY=66" width="100%"/>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Awanish-26&style=flat-square&color=blue" alt=""/></p>
