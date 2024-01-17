@@ -7,8 +7,8 @@
 <br><br>
 
 - 👨‍🎓 I'm 18 year boy persuing btech at University of Lucknow                  
-- 🔭 I’m currently working on Tailwind Sweet shop project
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on my DSA.
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Web dev projects
 - 📫 How to reach me: **https://www.linkedin.com/in/awanish-yadav/**
 - 😄 Pronouns: He/Him
