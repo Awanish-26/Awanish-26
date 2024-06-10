@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=9000&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello!+I'm+Awanish+%F0%9F%98%89;Nice+to+see+you+on+my+Profile)](https://git.io/typing-svg)
-[//]: <h1 align="center" style='color: purple;'>Hi there 👋 I'm Awanish</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=9000&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hello!+I'm+Awanish+%F0%9F%98%89;Nice+to+see+you+on+my+Profile)](https://git.io/typing-svg)
+<!--- <h1 align="center" style='color: purple;'>Hi there 👋 I'm Awanish</h1> -->
 <div id="header" align="center">
   <img src="./resourses/Untitled.png" width="200"/>
 </div>
