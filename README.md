@@ -43,11 +43,14 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </p>
+
 <h3 align="left">Version and Version Control:</h3>
 <p align="left>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  <br>
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
+  
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
 
