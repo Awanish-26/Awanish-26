@@ -69,10 +69,12 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
-<p align="center" dir="auto"><br><br>
-  <samp>
+<p align="center" dir="auto">
+<!--   <samp>
     <i>Thanks for visiting my profile.</i> 
-  </samp>
+  </samp> -->
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Have%20a%20Nice%20Day&section=footer&animation=twinkling&fontAlignY=66" width="100%"/>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Awanish-26&style=flat-square&color=blue" alt=""/></p>
