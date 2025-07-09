@@ -6,7 +6,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 <br><br>
 
-- 👨‍🎓 I'm 19 year boy persuing btech at University of Lucknow                  
+- 👨‍🎓 I'm 20 year boy persuing btech at University of Lucknow                  
 - 🔭 I’m currently working on my DSA.
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on Web dev projects
