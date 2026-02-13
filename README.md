@@ -8,8 +8,8 @@
 
 - 👨‍🎓 I'm 21 year boy persuing btech at University of Lucknow                  
 - 🔭 I’m currently working on my DSA.
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on Web dev projects
+- 🌱 I’m currently learning Web3 , Solana
+- 👯 I’m looking to collaborate on Full Stack projects
 - 📫 How to reach me: **https://www.linkedin.com/in/awanish-yadav/**
 - 😄 Pronouns: He/Him
 
