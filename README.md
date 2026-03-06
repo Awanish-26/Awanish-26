@@ -3,7 +3,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="1px" style="max-width: 100%;"></a>
 
 <div id="header">
-<img src="./resourses/Untitled.png" width="200" align="left"/>
+<img src="./resources/Untitled.png" width="200" align="left"/>
 
 <table align="right">
   <tr>
