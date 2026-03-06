@@ -40,7 +40,7 @@
 
 
 <br>
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="240px"/>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
 
 <h3>Languages and Tools:</h3>
 <p align="right"> 
@@ -177,29 +177,21 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <p align="right"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Don't%20analyze%20your%20life%20more%20than%20you%20live%20it.&author=awanish" /> </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awanish-26&show_icons=true&locale=en&layout=compact&theme=neon&bg_color=00000000" alt="Awanish-26" height="180" width="420"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Awanish-26&show_icons=true&locale=en&theme=neon&bg_color=00000000" alt="Awanish-26" height="180" width="420"/>
-</p>-->
+</p>
 
-<!--<p align="center" ><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Awanish-26&theme=ocean-dark&mode=weekly&card_width=500" alt="GitHub Streak" width="50%"/></a></p>-->
+<p align="center" >
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Awanish-26&theme=ocean-dark&mode=weekly&card_width=500" alt="GitHub Streak" width="50%"/>
+  </a>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Have%20a%20Nice%20Day&section=footer&animation=twinkling&fontAlignY=66" width="100%"/>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Have%20a%20Nice%20Day&section=footer&animation=twinkling&fontAlignY=66" width="100%"/> -->
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Awanish-26&style=flat-square&color=blue" alt=""/></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=Awanish-26&style=flat-square&color=blue" alt=""/></p> -->
