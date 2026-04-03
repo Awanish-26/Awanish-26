@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>
-      <p>👯 I’m looking to collaborate on Full Stack projects </p>
+      <p>👯 I’m looking to collaborate on any type of projects,hackethons </p>
     </td>
   </tr>
   <tr>
