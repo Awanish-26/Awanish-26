@@ -8,7 +8,7 @@
 <table align="right">
   <tr>
     <td>
-      <p>👨‍🎓 I'm 21 year boy persuing btech at University of Lucknow  </p>
+      <p>👨‍🎓 I'm 22 year boy with a major in CS </p>
     </td>
   </tr>
   <tr>
@@ -40,11 +40,11 @@
 
 
 <br>
+<div style="display:flex;">
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74407205/232208553-2dd4181e-2d88-46a4-ac0b-15bda6d52f34.png" height="200px"/>
 
 <h3>Languages and Tools:</h3>
-<p align="right"> 
-  <table align="center">
+  <table align="left">
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
@@ -166,14 +166,10 @@
     </td>
   </tr>
 </table>
-</p>
-  
+</div>
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="2px" style="max-width: 100%;"></a>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
