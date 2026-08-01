@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>
-      <p>🌱 I’m currently learning Web3 , Solana </p>
+      <p>🌱 I’m currently learning Android Development with jetpack compose and kotlin </p>
     </td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>
-      <p>👯 I’m looking to collaborate on any type of projects,hackethons </p>
+      <p>👯 I’m looking to collaborate on any type of projects,hackathons </p>
     </td>
   </tr>
   <tr>
@@ -51,8 +51,8 @@
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="Github" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br>GitHub
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
