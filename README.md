@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>
-      <p>🌱 I’m currently learning Android Development with jetpack compose and kotlin </p>
+      <p>🌱 I’m currently learning Web3 and Rust </p>
     </td>
   </tr>
   <tr>
